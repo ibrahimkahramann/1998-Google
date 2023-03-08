@@ -1,2 +1,2 @@
-# Bilgisayar Dukkanim
-###	Bu site [Kodluyoruz](https://www.kodluyoruz.org/)  Front-End Eğitiminde oluşturduğumuz bir site. İçerisinde images klasoru, readme dosyası ve 3 adet html dosyası barındırıyor.
+# 1998 Google
+###	Bu site [Kodluyoruz](https://www.kodluyoruz.org/)  Front-End Eğitiminde oluşturduğumuz bir site. İçerisinde images klasoru, readme dosyası, css dosyaysı ve 1 adet html dosyası barındırıyor.
