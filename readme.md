@@ -3,4 +3,4 @@
 
 ![][def]
 
-[def]: https://www.hizliresim.com/7ktgf3o
+[def]: https://i.hizliresim.com/7ktgf3o.png
